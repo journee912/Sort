@@ -1,7 +1,6 @@
 package Sort;
 
 import java.util.Arrays;
-
 // 객체의 정렬 : 사용자 정의 객체
 // Comparable - 1가지 기준으로 정렬
 public class Solution01 implements Comparable<Solution01> {

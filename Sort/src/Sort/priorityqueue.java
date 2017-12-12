@@ -1,5 +1,5 @@
 package Sort;
-
+// 우선순위 큐 알고리즘 구현
 import java.util.PriorityQueue;
 import Sort.Element;
 

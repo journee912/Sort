@@ -1,5 +1,5 @@
 package Sort;
-
+// 계수 정렬 알고리즘 구현
 import java.util.Arrays;
 import java.util.Random;
 
